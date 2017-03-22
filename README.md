@@ -17,6 +17,9 @@ Network acceleration methods
 - [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
 - [Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.](https://arxiv.org/abs/1612.03940) (Brown University)
 
+###Network quantization
+- https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
+
 ### Binary networks
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279) (Allen Institute for AI, University of Washington)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830)
