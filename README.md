@@ -23,3 +23,4 @@ Network acceleration methods
 ### Binary networks
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279) (Allen Institute for AI, University of Washington)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830)
+- [BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet] (https://github.com/hpi-xnor/BMXNet)
