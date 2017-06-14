@@ -29,4 +29,5 @@ Network acceleration methods
 To look at:
 ~~~
 https://github.com/songhan/SqueezeNet-Deep-Compression
+https://github.com/jiaxiang-wu/quantized-cnn
 ~~~
