@@ -25,6 +25,8 @@ Network acceleration methods
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830)
 - [BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet](https://github.com/hpi-xnor/BMXNet)
 
+### Mobile devices
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://github.com/Zehaos/MobileNet)
 
 To look at:
 ~~~
