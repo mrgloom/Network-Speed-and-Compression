@@ -17,6 +17,7 @@ Network acceleration methods
 - [Dynamic Network Surgery for Efficient DNNs.](http://arxiv.org/abs/1608.04493) (Intel Labs China)
 - [Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.](https://arxiv.org/abs/1612.03940) (Brown University)
 - [Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/pdf/1701.05369.pdf) https://github.com/ars-ashuha/variational-dropout-sparsifies-dnn
+- [Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/pdf/1702.04008.pdf)
 
 ### Network quantization
 - https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
