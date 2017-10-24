@@ -30,6 +30,7 @@ Network acceleration methods
 
 ### Mobile devices
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://github.com/Zehaos/MobileNet)
+- [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf)
 
 To look at:
 ~~~
