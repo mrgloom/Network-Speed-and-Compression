@@ -1,4 +1,4 @@
-# Network-acceleration
+### Network-acceleration
 - https://github.com/yihui-he/channel-pruning
 
 ### Network Compression
