@@ -1,5 +1,5 @@
 # Network-acceleration
-https://github.com/yihui-he/channel-pruning
+- https://github.com/yihui-he/channel-pruning
 
 ### Network Compression
 - Learning both Weights and Connections for Efficient Neural Network. (Stanford University, NVIDIA, **2015 NIPS**)
