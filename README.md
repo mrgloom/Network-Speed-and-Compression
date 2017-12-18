@@ -20,6 +20,7 @@
 - [Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/pdf/1702.04008.pdf)
 - [LCNN: Lookup-based Convolutional Neural Network](https://arxiv.org/pdf/1611.06473.pdf)
 - [Bayesian Compression for Deep Learning](https://arxiv.org/pdf/1705.08665.pdf)
+- [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://github.com/Roll920/ThiNet)
 
 ### Network quantization
 - https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
