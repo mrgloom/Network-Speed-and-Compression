@@ -30,9 +30,11 @@
 - [BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet](https://github.com/hpi-xnor/BMXNet)
 
 ### Mobile devices
-- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://github.com/Zehaos/MobileNet)
-    + https://arxiv.org/pdf/1704.04861.pdf
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
+    + https://github.com/Zehaos/MobileNet
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf)
+- [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/pdf/1711.09224.pdf)
+    + https://github.com/ShichenLiu/CondenseNet
 
 To look at:
 ~~~
