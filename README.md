@@ -23,6 +23,7 @@
 
 ### Network quantization
 - https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
+- https://github.com/aaron-xichen/pytorch-playground#quantization
 
 ### Binary networks
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279)
