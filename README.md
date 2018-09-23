@@ -37,6 +37,7 @@
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf)
 - [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/pdf/1711.09224.pdf)
     + https://github.com/ShichenLiu/CondenseNet
+- [FD-MobileNet: Improved MobileNet with a Fast Downsampling Strategy](https://arxiv.org/pdf/1802.03750.pdf)[2018]
 
 To look at:
 ~~~
