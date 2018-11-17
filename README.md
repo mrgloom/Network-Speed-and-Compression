@@ -39,6 +39,10 @@
     + https://github.com/ShichenLiu/CondenseNet
 - [FD-MobileNet: Improved MobileNet with a Fast Downsampling Strategy](https://arxiv.org/pdf/1802.03750.pdf)[2018]
 
+### Frameworks
+- https://github.com/Tencent/PocketFlow
+- https://code.fb.com/ml-applications/qnnpack/
+
 To look at:
 ~~~
 https://github.com/dkozlov/awesome-knowledge-distillation
