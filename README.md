@@ -42,6 +42,7 @@
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
 - https://code.fb.com/ml-applications/qnnpack/
+- https://developer.nvidia.com/tensorrt
 
 To look at:
 ~~~
