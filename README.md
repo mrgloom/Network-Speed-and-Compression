@@ -31,25 +31,18 @@
 - [BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet](https://github.com/hpi-xnor/BMXNet)
 - [Optimize Deep Convolutional Neural Network with Ternarized Weights and High Accuracy](https://arxiv.org/pdf/1807.07948.pdf)
 
-### Mobile devices
-- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
-    + https://github.com/Zehaos/MobileNet
-- [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf)
-- [CondenseNet: An Efficient DenseNet using Learned Group Convolutions](https://arxiv.org/pdf/1711.09224.pdf)
-    + https://github.com/ShichenLiu/CondenseNet
-- [FD-MobileNet: Improved MobileNet with a Fast Downsampling Strategy](https://arxiv.org/pdf/1802.03750.pdf)[2018]
-
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
 - https://code.fb.com/ml-applications/qnnpack/
 - https://developer.nvidia.com/tensorrt
 
-### Network models
+### Network models for mobile devices
 - [Mobilenet](https://arxiv.org/pdf/1704.04861.pdf)
 - [CondenseNet](https://arxiv.org/pdf/1711.09224.pdf)
 - [NASNet](https://arxiv.org/pdf/1707.07012.pdf)
 - [ShuffleNet](https://arxiv.org/pdf/1707.01083.pdf)
 - [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
+- [FD-MobileNet](https://arxiv.org/pdf/1802.03750.pdf)[2018]
 
 To look at:
 ~~~
