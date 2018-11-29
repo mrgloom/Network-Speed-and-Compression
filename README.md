@@ -44,6 +44,13 @@
 - https://code.fb.com/ml-applications/qnnpack/
 - https://developer.nvidia.com/tensorrt
 
+### Network models
+- [Mobilenet](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
+- [CondenseNet](https://github.com/ShichenLiu/CondenseNet)
+- [NASNet](https://github.com/titu1994/Keras-NASNet)
+- [ShuffleNet](https://github.com/MG2033/ShuffleNet)
+- [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
+
 To look at:
 ~~~
 https://github.com/dkozlov/awesome-knowledge-distillation
