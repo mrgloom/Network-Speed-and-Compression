@@ -45,10 +45,10 @@
 - https://developer.nvidia.com/tensorrt
 
 ### Network models
-- [Mobilenet](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)
-- [CondenseNet](https://github.com/ShichenLiu/CondenseNet)
-- [NASNet](https://github.com/titu1994/Keras-NASNet)
-- [ShuffleNet](https://github.com/MG2033/ShuffleNet)
+- [Mobilenet](https://arxiv.org/pdf/1704.04861.pdf)
+- [CondenseNet](https://arxiv.org/pdf/1711.09224.pdf)
+- [NASNet](https://arxiv.org/pdf/1707.07012.pdf)
+- [ShuffleNet](https://arxiv.org/pdf/1707.01083.pdf)
 - [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
 
 To look at:
