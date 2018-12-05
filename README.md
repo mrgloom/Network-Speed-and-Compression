@@ -43,6 +43,9 @@
 - [ShuffleNet](https://arxiv.org/pdf/1707.01083.pdf)
 - [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
 - [FD-MobileNet](https://arxiv.org/pdf/1802.03750.pdf)[2018]
+- [ProxylessNAS](https://openreview.net/pdf?id=HylVB3AqYm)[2019]
+  + https://github.com/MIT-HAN-LAB/ProxylessNAS
+- [MnasNet](https://arxiv.org/pdf/1807.11626.pdf)[2018]
 
 To look at:
 ~~~
