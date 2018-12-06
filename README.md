@@ -49,6 +49,7 @@
 - [MnasNet](https://arxiv.org/pdf/1807.11626.pdf)[2018]
 - [ESPNetv2](https://arxiv.org/pdf/1811.11431.pdf)[2018]
   + https://github.com/sacmehta/ESPNetv2
+- [FD-MobileNet](https://arxiv.org/pdf/1802.03750.pdf) [2018]
 
 To look at:
 ~~~
