@@ -54,6 +54,7 @@
 To look at:
 ~~~
 https://github.com/dkozlov/awesome-knowledge-distillation
+https://github.com/memoiry/Awesome-model-compression-and-acceleration
 https://github.com/ljk628/ML-Systems/blob/master/dl_cnn.md
 https://github.com/songhan/SqueezeNet-Deep-Compression
 https://github.com/jiaxiang-wu/quantized-cnn
