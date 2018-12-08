@@ -51,6 +51,11 @@
   + https://github.com/sacmehta/ESPNetv2
 - [FD-MobileNet](https://arxiv.org/pdf/1802.03750.pdf) [2018]
 
+### Training smaller model based on existing one
+- Data-Free Knowledge Distillation for Deep Neural Networks (https://arxiv.org/pdf/1710.07535.pdf) [2017]
+  + https://github.com/iRapha/replayed_distillation
+- Stealing Machine Learning Models via Prediction APIs (https://arxiv.org/pdf/1609.02943.pdf) [2016]
+
 To look at:
 ~~~
 https://github.com/dkozlov/awesome-knowledge-distillation
