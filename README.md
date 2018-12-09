@@ -57,7 +57,7 @@
 - Stealing Machine Learning Models via Prediction APIs (https://arxiv.org/pdf/1609.02943.pdf) [2016]
 
 ### Face recognition
-- MobiFace (https://arxiv.org/pdf/1811.11080.pdf) [2018]
+- MobiFace(https://arxiv.org/pdf/1811.11080.pdf) [2018]
 
 To look at:
 ~~~
