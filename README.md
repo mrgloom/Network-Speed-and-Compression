@@ -69,6 +69,5 @@ https://github.com/songhan/SqueezeNet-Deep-Compression
 https://github.com/jiaxiang-wu/quantized-cnn
 https://github.com/andyhahaha/Convolutional-Neural-Network-Compression-Survey
 https://github.com/Zhouaojun/Efficient-Deep-Learning
-https://github.com/NervanaSystems/distiller
 https://github.com/ZFTurbo/Keras-inference-time-optimizer
 ~~~
