@@ -35,6 +35,7 @@
 - https://github.com/Tencent/PocketFlow
 - https://code.fb.com/ml-applications/qnnpack/
 - https://developer.nvidia.com/tensorrt
+- https://github.com/NervanaSystems/distiller
 
 ### Network models for mobile devices
 - [Mobilenet](https://arxiv.org/pdf/1704.04861.pdf)
