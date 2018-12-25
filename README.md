@@ -24,6 +24,8 @@
 ### Network quantization
 - https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/
 - https://github.com/aaron-xichen/pytorch-playground#quantization
+- [Quantizing deep convolutional networks for
+efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 
 ### Binary networks
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.](http://arxiv.org/abs/1603.05279)
