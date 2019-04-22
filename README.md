@@ -33,6 +33,7 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1.](http://arxiv.org/abs/1602.02830)
 - [BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet](https://github.com/hpi-xnor/BMXNet)
 - [Optimize Deep Convolutional Neural Network with Ternarized Weights and High Accuracy](https://arxiv.org/pdf/1807.07948.pdf)
+- [Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064.pdf) [2017]
 
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
