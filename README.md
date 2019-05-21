@@ -75,4 +75,5 @@ https://github.com/jiaxiang-wu/quantized-cnn
 https://github.com/andyhahaha/Convolutional-Neural-Network-Compression-Survey
 https://github.com/Zhouaojun/Efficient-Deep-Learning
 https://github.com/ZFTurbo/Keras-inference-time-optimizer
+https://github.com/becauseofAI/MobileFace
 ~~~
