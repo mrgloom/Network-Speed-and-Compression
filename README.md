@@ -34,6 +34,8 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 - [BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet](https://github.com/hpi-xnor/BMXNet)
 - [Optimize Deep Convolutional Neural Network with Ternarized Weights and High Accuracy](https://arxiv.org/pdf/1807.07948.pdf)
 - [Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064.pdf) [2017]
+- [Training wide residual networks for deployment using a single bit for each weight](https://arxiv.org/pdf/1802.08530.pdf) [2018]
+    + https://github.com/szagoruyko/binary-wide-resnet
 
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
