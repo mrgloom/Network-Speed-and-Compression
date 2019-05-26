@@ -45,6 +45,10 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
     + https://medium.com/@keremturgutlu/tensor-decomposition-fast-cnn-in-your-pocket-f03e9b2a6788
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/pdf/1511.06530.pdf) [2016]
 
+### Pruning
+- [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/pdf/1611.06440.pdf) [2017]
+    + https://jacobgil.github.io/deeplearning/pruning-deep-learning
+
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
 - https://code.fb.com/ml-applications/qnnpack/
