@@ -39,6 +39,8 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
     
 ### Convolution decomposition
 - [Flattened convolutional neural networks for feedforward acceleration](https://arxiv.org/pdf/1412.5474.pdf) [2015]
+- [Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/pdf/1412.6553.pdf) [2015]
+    + https://github.com/vadim-v-lebedev/cp-decomposition
 
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
