@@ -36,6 +36,9 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 - [Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064.pdf) [2017]
 - [Training wide residual networks for deployment using a single bit for each weight](https://arxiv.org/pdf/1802.08530.pdf) [2018]
     + https://github.com/szagoruyko/binary-wide-resnet
+    
+### Convolution decomposition
+- [Flattened convolutional neural networks for feedforward acceleration](https://arxiv.org/pdf/1412.5474.pdf) [2015]
 
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
