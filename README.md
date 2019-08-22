@@ -81,6 +81,7 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 
 To look at:
 ~~~
+https://github.com/wpf535236337/real-time-network
 https://github.com/dkozlov/awesome-knowledge-distillation
 https://github.com/memoiry/Awesome-model-compression-and-acceleration
 https://github.com/ljk628/ML-Systems/blob/master/dl_cnn.md
