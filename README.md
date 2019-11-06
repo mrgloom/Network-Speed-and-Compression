@@ -48,6 +48,8 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 ### Pruning
 - [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/pdf/1611.06440.pdf) [2017]
     + https://jacobgil.github.io/deeplearning/pruning-deep-learning
+- Pruning in tensorflow
+    + https://github.com/ex4sperans/pruning_with_tensorflow
 
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
