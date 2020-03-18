@@ -81,6 +81,9 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 ### Face recognition
 - [MobiFace](https://arxiv.org/pdf/1811.11080.pdf) [2018]
 
+### Face detection
+- [BlazeFace](https://arxiv.org/pdf/1907.05047.pdf) [2019]
+
 To look at:
 ~~~
 https://github.com/wpf535236337/real-time-network
