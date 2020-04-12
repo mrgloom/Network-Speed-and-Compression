@@ -84,6 +84,9 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 ### Face detection
 - [BlazeFace](https://arxiv.org/pdf/1907.05047.pdf) [2019]
 
+### Blog posts
+https://machinethink.net/blog/mobile-architectures/
+
 To look at:
 ~~~
 https://github.com/wpf535236337/real-time-network
