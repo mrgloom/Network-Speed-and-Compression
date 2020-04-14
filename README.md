@@ -89,6 +89,7 @@ https://machinethink.net/blog/mobile-architectures/
 
 To look at:
 ~~~
+https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression
 https://github.com/wpf535236337/real-time-network
 https://github.com/dkozlov/awesome-knowledge-distillation
 https://github.com/memoiry/Awesome-model-compression-and-acceleration
