@@ -1,3 +1,21 @@
+### Network architecture
+- [MobilenetV1](https://arxiv.org/pdf/1704.04861.pdf)[2017]
+- [MobilenetV2](https://arxiv.org/pdf/1801.04381.pdf)[2019]
+- [MobilenetV3](https://arxiv.org/pdf/1905.02244.pdf)[2019]
+- [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)[2016]
+- [SqueezeNext](https://arxiv.org/pdf/1803.10615.pdf)[2018]
+- [Tiny Darknet](https://pjreddie.com/darknet/tiny-darknet/)[?]
+- [CondenseNet](https://arxiv.org/pdf/1711.09224.pdf)
+- [NASNet](https://arxiv.org/pdf/1707.07012.pdf)
+  + https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet
+- [ShuffleNet](https://arxiv.org/pdf/1707.01083.pdf)
+- [FD-MobileNet](https://arxiv.org/pdf/1802.03750.pdf)[2018]
+- [ProxylessNAS](https://openreview.net/pdf?id=HylVB3AqYm)[2019]
+  + https://github.com/MIT-HAN-LAB/ProxylessNAS
+- [MnasNet](https://arxiv.org/pdf/1807.11626.pdf)[2018]
+- [ESPNetv2](https://arxiv.org/pdf/1811.11431.pdf)[2018]
+  + https://github.com/sacmehta/ESPNetv2
+
 ### Network-acceleration
 - https://github.com/yihui-he/channel-pruning
 
@@ -57,21 +75,6 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 - https://developer.nvidia.com/tensorrt
 - https://github.com/NervanaSystems/distiller
 - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/quantize
-
-### Network models for mobile devices
-- [Mobilenet](https://arxiv.org/pdf/1704.04861.pdf)
-- [CondenseNet](https://arxiv.org/pdf/1711.09224.pdf)
-- [NASNet](https://arxiv.org/pdf/1707.07012.pdf)
-  + https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet
-- [ShuffleNet](https://arxiv.org/pdf/1707.01083.pdf)
-- [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
-- [FD-MobileNet](https://arxiv.org/pdf/1802.03750.pdf)[2018]
-- [ProxylessNAS](https://openreview.net/pdf?id=HylVB3AqYm)[2019]
-  + https://github.com/MIT-HAN-LAB/ProxylessNAS
-- [MnasNet](https://arxiv.org/pdf/1807.11626.pdf)[2018]
-- [ESPNetv2](https://arxiv.org/pdf/1811.11431.pdf)[2018]
-  + https://github.com/sacmehta/ESPNetv2
-- [SqueezeNext](https://arxiv.org/pdf/1803.10615.pdf) [2018]
 
 ### Training smaller model based on existing one
 - Data-Free Knowledge Distillation for Deep Neural Networks (https://arxiv.org/pdf/1710.07535.pdf) [2017]
