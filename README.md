@@ -1,10 +1,10 @@
 ### Network architecture
-- [MobilenetV1](https://arxiv.org/pdf/1704.04861.pdf)[2017]
-- [MobilenetV2](https://arxiv.org/pdf/1801.04381.pdf)[2019]
-- [MobilenetV3](https://arxiv.org/pdf/1905.02244.pdf)[2019]
-- [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)[2016]
-- [SqueezeNext](https://arxiv.org/pdf/1803.10615.pdf)[2018]
-- [Tiny Darknet](https://pjreddie.com/darknet/tiny-darknet/)[?]
+- [MobilenetV1](https://arxiv.org/pdf/1704.04861.pdf) [2017]
+- [MobilenetV2](https://arxiv.org/pdf/1801.04381.pdf) [2019]
+- [MobilenetV3](https://arxiv.org/pdf/1905.02244.pdf) [2019]
+- [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf) [2016]
+- [SqueezeNext](https://arxiv.org/pdf/1803.10615.pdf) [2018]
+- [Tiny Darknet](https://pjreddie.com/darknet/tiny-darknet/) [?]
 - [CondenseNet](https://arxiv.org/pdf/1711.09224.pdf)
 - [NASNet](https://arxiv.org/pdf/1707.07012.pdf)
   + https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet
