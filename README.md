@@ -3,6 +3,7 @@
 - [MobilenetV2](https://arxiv.org/pdf/1801.04381.pdf) [2019]
 - [MobilenetV3](https://arxiv.org/pdf/1905.02244.pdf) [2019]
 - [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf) [2016]
+  + https://github.com/forresti/SqueezeNet
 - [SqueezeNext](https://arxiv.org/pdf/1803.10615.pdf) [2018]
   + https://github.com/amirgholami/SqueezeNext
 - [Tiny Darknet](https://pjreddie.com/darknet/tiny-darknet/) [?]
