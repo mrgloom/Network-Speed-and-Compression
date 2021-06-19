@@ -71,6 +71,9 @@ efficient inference: A whitepaper](https://arxiv.org/pdf/1806.08342.pdf)
 - Pruning in tensorflow
     + https://github.com/ex4sperans/pruning_with_tensorflow
 
+### Surveys
+- [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962) [2021]
+
 ### Frameworks
 - https://github.com/Tencent/PocketFlow
 - https://code.fb.com/ml-applications/qnnpack/
